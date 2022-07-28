@@ -1,2 +1,2 @@
 ['remote "aws"']
-    url = ../starter/data/s3:arn:aws:s3:::mle-project3
+    url = s3://mle-project3
