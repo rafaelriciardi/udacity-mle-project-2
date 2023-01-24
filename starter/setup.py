@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="starter",
-    version="0.0.0",
-    description="Starter code.",
-    author="Student",
+    name="project3",
+    version="0.0.1",
+    description="Udacity's MLE Course - Project 3",
+    author="Rafael Riciardi Barreira",
 )
